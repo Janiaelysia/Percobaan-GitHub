@@ -16,7 +16,8 @@ class TenMinVideos {
 
 List<TenMinVideos> tenMinVideoList = [
   TenMinVideos(
-    title: "10 Min Intense Abs",
+    title: "video tenMin #1",
+    // title: "10 Min Intense Abs",
     image:
         "https://static.chloeting.com/videos/663517d500c230367fe429e6/ed1cabb0-0c79-11ef-854a-c15ecb281560.jpeg",
     url: Uri.parse('https://youtu.be/aeVsOW1LKyQ'),
